@@ -1,8 +1,8 @@
 {
-    "name": "camspiers/porter-stemmer",
+    "name": "eldernet/porter-stemmer",
     "description": "Porter Stemmer created by Richard Heyes",
     "keywords": [ "stem", "indexer" ],
-    "homepage": "https://github.com/camspiers/porter-stemmer",
+    "homepage": "https://github.com/eldernet/porter-stemmer",
     "license": "MIT",
     "authors": [
         {
@@ -10,12 +10,8 @@
             "email": "support@rgraph.net"
         }
     ],
-    "support": {
-        "issues": "https://github.com/camspiers/porter-stemmer/issues",
-        "source": "https://github.com/camspiers/porter-stemmer"
-    },
     "require": {
-        "php": ">=5.0"
+        "php": ">=8.0"
     },
     "autoload": {
         "classmap": [ "src/" ]
